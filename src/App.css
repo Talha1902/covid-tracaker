@@ -1,0 +1,51 @@
+.content
+{
+    margin: 5px;
+}
+.Boxe1,.Boxe2,.Boxe3
+{
+    margin: 10px;
+}
+.Boxe1
+{
+    border-bottom: 8px solid blue;
+}
+.Boxe2
+{
+    border-bottom: 8px solid green ;
+}
+.Boxe3
+{
+    border-bottom: 8px solid red;
+}
+/* styling for country component  */
+.countryBox
+{
+    display: flex;
+    justify-content: center;
+}
+.form
+{
+    background-color: rgb(233, 233, 233);
+    width: 400px;
+}
+
+/* styling for chart component  */
+
+.chartBox
+{
+    display: flex;
+    justify-content: center;
+}
+.chart
+{
+    width: 50%;
+}
+.image
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 150px;
+}
